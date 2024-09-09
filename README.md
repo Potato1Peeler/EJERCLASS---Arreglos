@@ -2,7 +2,7 @@
 
 Python:
 
-Lo que hace este programa en Python es crear un arreglo bidimensional que muestra las ventas de 12 meses de varios departamentos (Ropa, Deporte, Jugueteria), dentro del código hay varios métodos para utilizar diferentes funciones, por ejemplo:
+Lo que hace este programa en Python es crear un arreglo bidimensional que muestra las ventas de 12 meses de varios departamentos (Ropa, Deporte, Jugueteria), dentro del código hay varios métodos para utilizar diferentes funciones como buscar y/o eliminar datos en la matriz de las ventas, por ejemplo:
 
 El método “poner_ventas_mensuales” lo que hace es analizar que el departamento y mes dado existan dentro del arreglo y en dado caso que no lanzar un error, por otro lado, también nos permite agregar datos al arreglo teniendo en cuenta el mes y departamento.
 
