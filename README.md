@@ -13,7 +13,7 @@ El método “eliminar_ventas” lo que hace es dependiendo de un índice de mes
 
 El método “matriz_ventas” lo que hace es formar la matriz con una estructura y le da formato separando los números para se vea estético.
 
-Lo del código en Python pregunta los datos requeridos para así utilizar los métodos anteriores dados e imprime la matriz entera luego de las operaciones haciendo que el programa corra correctamente
+El resto del código en Python pregunta los datos requeridos para así utilizar los métodos anteriores dados e imprime la matriz entera luego de las operaciones haciendo que el programa corra correctamente
 
 JAVA:
 
