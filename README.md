@@ -4,6 +4,8 @@ Python:
 
 Lo que hace este programa en Python es crear un arreglo bidimensional que muestra las ventas de 12 meses de varios departamentos (Ropa, Deporte, Jugueteria), dentro del código hay varios métodos para utilizar diferentes funciones como buscar y/o eliminar datos en la matriz de las ventas, por ejemplo:
 
+El metodo "encontrar_indice" lo que hace es buscar un indice en la lista e igualarlo, si son iguales devuelve el dato del indice y en dado caso de que no lo encuentre lanza un eror.
+
 El método “poner_ventas_mensuales” lo que hace es analizar que el departamento y mes dado existan dentro del arreglo y en dado caso que no lanzar un error, por otro lado, también nos permite agregar datos al arreglo teniendo en cuenta el mes y departamento.
 
 El método “buscar_ventas” lo que hace es dar hincapié a una función que hace que dependiendo del índice de mes y departamento imprima un dato antes dado
